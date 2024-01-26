@@ -28,13 +28,13 @@
     > H1's are usually the focus of your site; and the concept of boxes is a very powerful one. 
 
 08. What is the purpose of ***wireframing***?
-    > 
+    > it helps map out your site long before you even start coding. 
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > sometimes; depending on the size of the site. 
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > it makes your given element able to freely move about the space it has availible.
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > Width and Height, among other things. 
