@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/SammmMorgan/burgahjoint)**
-* **[Repo](https://github.com/SammmMorgan/winter24_gregslist_api)**
-* **[Repo](https://github.com/SammmMorgan/planets)**
-no 4th lab this week for hackathon
+* **[Repo](https://github.com/SammmMorgan/vue-playground)**
+* **[Repo](https://github.com/SammmMorgan/winter24_gregslist_vue)**
+* **[Repo](https://github.com/SammmMorgan/ArtMuseum)**
+absent for thursday :(
