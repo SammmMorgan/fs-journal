@@ -21,7 +21,14 @@
         "titleBar.activeBackground": "#4d5f22",
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#4d5f2299",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "editorError.foreground": "#000000ff",
+        "editorInfo.foreground": "#000000ff",
+        "editorWarning.foreground": "#000000ff",
+        "sideBar.border": "#6b852f",
+        "statusBar.border": "#4d5f22",
+        "statusBar.debuggingBorder": "#34225f",
+        "titleBar.border": "#4d5f22"
     },
     "peacock.color": "#4d5f22"
 }
